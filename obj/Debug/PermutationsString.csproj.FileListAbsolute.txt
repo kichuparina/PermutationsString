@@ -1,0 +1,6 @@
+D:\esty\ASP\github\PermutationsString\PermutationsString\bin\Debug\PermutationsString.exe.config
+D:\esty\ASP\github\PermutationsString\PermutationsString\bin\Debug\PermutationsString.exe
+D:\esty\ASP\github\PermutationsString\PermutationsString\bin\Debug\PermutationsString.pdb
+D:\esty\ASP\github\PermutationsString\PermutationsString\obj\Debug\PermutationsString.csprojResolveAssemblyReference.cache
+D:\esty\ASP\github\PermutationsString\PermutationsString\obj\Debug\PermutationsString.exe
+D:\esty\ASP\github\PermutationsString\PermutationsString\obj\Debug\PermutationsString.pdb
